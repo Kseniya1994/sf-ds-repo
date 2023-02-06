@@ -1,0 +1,19 @@
+WARNING: 2022-09-19 14:19:50,195: Это сообщение-предупреждение
+WARNING: 2022-09-19 14:19:50,195: Это сообщение-предупреждение
+ERROR: 2022-09-19 14:19:50,198: Это сообщение об ошибке
+ERROR: 2022-09-19 14:19:50,198: Это сообщение об ошибке
+CRITICAL: 2022-09-19 14:19:50,198: Это критическое сообщение
+CRITICAL: 2022-09-19 14:19:50,198: Это критическое сообщение
+INFO: 2022-09-19 14:31:12,942: Data
+INFO: 2022-09-19 14:31:59,177: Data
+INFO: 2022-09-19 14:31:59,177: Data
+INFO: 2022-09-19 14:31:59,178: Data shape (110527, 14)
+INFO: 2022-09-19 14:31:59,178: Data shape (110527, 14)
+INFO: 2022-09-19 14:31:59,188: Percentage of women: 0.653882342398853
+INFO: 2022-09-19 14:31:59,188: Percentage of women: 0.653882342398853
+INFO: 2022-09-19 14:31:59,197: Percentage of men: 0.346117657601147
+INFO: 2022-09-19 14:31:59,197: Percentage of men: 0.346117657601147
+ERROR: 2022-09-19 14:32:53,991: Data shape is incorrect!
+ERROR: 2022-09-19 14:32:53,991: Data shape is incorrect!
+WARNING: 2022-09-20 23:05:13,474: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /api/rest/v2/experiment/metadata?experimentKey=1302f872e2af44e7bfb0ee5d9752feca
+WARNING: 2022-09-20 23:05:13,474: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /api/rest/v2/experiment/metadata?experimentKey=1302f872e2af44e7bfb0ee5d9752feca
